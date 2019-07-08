@@ -1,4 +1,7 @@
-    /* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
+// O código deste programa NÃO É MEU, o original é mixed-wired-wireless.cc que vem como exemplo no próprio simulador NS3
+// O código do arquivo mixed-wired-wireles.cc foi alterado para funcionar de acordo com a rede especificada no trabalho
+
+/* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
 /*
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as
