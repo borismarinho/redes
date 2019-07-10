@@ -1,3 +1,6 @@
+// The code of this program IS NOT MINE, the original is "mixed-wired-wireless.cc" that comes as an exemple with the NS3 simulator
+// I just edited it to work as a model I designed for an assignment from the Computer Networks class
+
 // O código deste programa NÃO É MEU, o original é mixed-wired-wireless.cc que vem como exemplo no próprio simulador NS3
 // O código do arquivo mixed-wired-wireles.cc foi alterado para funcionar de acordo com a rede especificada no trabalho
 
